@@ -1,9 +1,9 @@
 import { Request, Response } from "express";
-import { character } from "../data";
+import { characters } from "../data";
 
 export default function(
     req:Request,
     res:Response
-) {
-    res.send(character)
+):void {
+    res.send(characters)
 }

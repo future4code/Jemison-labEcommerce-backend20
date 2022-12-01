@@ -1,1 +1,1 @@
-{"version":3,"file":"getAllCharacters.js","sourceRoot":"","sources":["../../src/endpoints.ts/getAllCharacters.ts"],"names":[],"mappings":";;AACA,kCAAoC;AAEpC,mBACI,GAAW,EACX,GAAY;IAEZ,GAAG,CAAC,IAAI,CAAC,gBAAS,CAAC,CAAA;AACvB,CAAC;AALD,4BAKC"}
+{"version":3,"file":"getAllCharacters.js","sourceRoot":"","sources":["../../src/endpoints.ts/getAllCharacters.ts"],"names":[],"mappings":";;AACA,kCAAqC;AAErC,mBACI,GAAW,EACX,GAAY;IAEZ,GAAG,CAAC,IAAI,CAAC,iBAAU,CAAC,CAAA;AACxB,CAAC;AALD,4BAKC"}

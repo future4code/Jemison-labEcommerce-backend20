@@ -1,4 +1,4 @@
-import { characters, GENDER } from "./types"
+import { character, GENDER } from "./types"
 import { movie } from "./types"
 
 
@@ -16,7 +16,7 @@ export const movies :movie[] = [
 ]
 
 
-export const character :characters[]=[
+export const characters :character[]=[
     {
         id:1,
         name:'Storm',

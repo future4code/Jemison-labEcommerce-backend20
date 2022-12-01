@@ -1,6 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.character = exports.movies = void 0;
+exports.characters = exports.movies = void 0;
 const types_1 = require("./types");
 exports.movies = [
     {
@@ -14,7 +14,7 @@ exports.movies = [
         year: 2016
     }
 ];
-exports.character = [
+exports.characters = [
     {
         id: 1,
         name: 'Storm',
